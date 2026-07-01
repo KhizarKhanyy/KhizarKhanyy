@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi 👋 I'm Khizar Alam
+Software Engineering Student
 
-<!--
-**KhizarKhanyy/KhizarKhanyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Air University Islamabad
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+
+Python
+HTML
+CSS
+JavaScript
+Full Stack Development
+Tech Stack
+C++
+Python (Learning)
+HTML (Learning)
+CSS (Learning)
+JavaScript (Learning)
+SQL
+Git
+GitHub
+Cisco Packet Tracer
+Featured Projects
+
+🏋️ FitMart
+
+Full Stack Healthcare & Fitness Platform
+
+🌻 Plants vs Zombies
+
+Desktop Game using C++ & SFML
+
+🎮 Ultimate Tic Tac Toe
+
+OOP Project in C++
