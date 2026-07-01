@@ -1,20 +1,26 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Khizar Alam</h1>
 
 <h3 align="center">
-Software Engineering Student | Future Full Stack Developer | Passionate About Building Real Software
+Software Engineering Student • Future Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;C%2B%2B+Developer;Learning+Python+%26+Full+Stack+Development;Building+Projects+Every+Day;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;C%2B%2B+Developer;Learning+Python+%26+Web+Development;Building+Projects+Every+Day;Future+Full+Stack+Software+Engineer"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 BS Software Engineering Student at **Air University Islamabad**
+🎓 BS Software Engineering Student @ Air University Islamabad
 
-💻 Passionate about Software Development and Problem Solving
+💻 Passionate about Software Development
+
+🚀 Building projects to improve my programming skills.
 
 🌱 Currently learning
 
@@ -22,65 +28,58 @@ Software Engineering Student | Future Full Stack Developer | Passionate About Bu
 - HTML
 - CSS
 - JavaScript
-- Full Stack Web Development
+- SQL
+- Full Stack Development
 
 🎯 Goal
 
-Become a Full Stack Software Engineer and build scalable software that solves real-world problems.
+Become a professional Full Stack Software Engineer.
 
 ---
 
-## 🚀 Current Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=html"/>
 
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite"/>
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 </p>
 
 ---
 
-### Tools
+# 📚 Currently Learning
 
-<p>
+```text
+✓ Python Programming
 
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
+✓ HTML5
 
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+✓ CSS3
 
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+✓ JavaScript
 
-<img src="https://skillicons.dev/icons?i=visualstudio" height="45"/>
+✓ SQL
 
-</p>
-
----
-
-## 📚 Currently Learning
-
-✔ Python Programming
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ SQL
-
-✔ Web Development
+✓ Full Stack Development
+```
 
 ---
 
@@ -88,75 +87,85 @@ Become a Full Stack Software Engineer and build scalable software that solves re
 
 ## 🏋️ FitMart
 
-**Full Stack Healthcare & Fitness Platform**
+Full Stack Healthcare & Fitness Platform
 
-- Python Backend
-- HTML
-- CSS
-- JavaScript
-- SQL Database
-- REST APIs
-- Authentication System
+**Tech**
 
-🔗 Repository
+Python
 
-https://github.com/KhizarKhanyy/FitMart-Full-Stack-Fitness-Platform
+HTML
+
+CSS
+
+JavaScript
+
+SQL
+
+REST APIs
 
 ---
 
 ## 🌻 Plants vs Zombies Clone
 
-Desktop Game developed in C++ using SFML.
+Desktop Game developed using
 
-Features:
+C++
 
-- Collision Detection
-- Multiple Levels
-- Animations
-- Menus
-- File Handling
+SFML
 
-🔗 Repository
-
-https://github.com/KhizarKhanyy/-Plants-vs-Zombies-C-SFML-Clone
+Programming Fundamentals
 
 ---
 
 ## 🎮 Ultimate Tic Tac Toe
 
-Object-Oriented Programming project developed in C++.
+Object-Oriented Programming
 
-Concepts:
+Dynamic Memory
 
-- OOP
-- Dynamic Memory
-- File Handling
-- Operator Overloading
-- Composition
+Operator Overloading
 
-🔗 Repository
-
-https://github.com/KhizarKhanyy/Ultimate-Tic-Tac-Toe-OOP
+File Handling
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhizarKhanyy&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhizarKhanyy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarKhanyy&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhizarKhanyy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KhizarKhanyy&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=KhizarKhanyy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhizarKhanyy&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KhizarKhanyy&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -164,42 +173,52 @@ https://github.com/KhizarKhanyy/Ultimate-Tic-Tac-Toe-OOP
 
 # 🎯 2026 Goals
 
-✅ Master Python
-
-✅ Learn Full Stack Development
-
-✅ Build 10+ Professional Projects
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Engineering Internship
+- ✅ Master Python
+- ✅ Learn Full Stack Development
+- ✅ Learn Flask
+- ✅ Learn React
+- ✅ Build 10+ Professional Projects
+- ✅ Secure a Software Engineering Internship
+- ✅ Contribute to Open Source
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="YOUR LINKEDIN URL">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/khizar-alam-3142573b7">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="https://github.com/KhizarKhanyy">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 </p>
 
 ---
 
-## 💡 Favorite Quote
+# 💬 Quote
 
-> "The expert in anything was once a beginner."
+> "Every expert was once a beginner. Every project is another step forward."
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=KhizarKhanyy&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
 
 </p>
